@@ -1,3 +1,4 @@
+rules:
     "DOMAIN-SUFFIX,mdpi.com,DIRECT",
     // ACS (American Chemical Society)
     // 涵盖 pubs.acs.org 等
