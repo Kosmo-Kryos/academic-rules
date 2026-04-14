@@ -3,20 +3,3 @@ rules:
   # ACS (American Chemical Society)
   # 涵盖 pubs.acs.org 等
   - DOMAIN-SUFFIX,acs.org,DIRECT
-  # AIP (American Institute of Physics)
-  # 涵盖 pubs.aip.org, publishing.aip.org 等
-  - DOMAIN-SUFFIX,aip.org,DIRECT
-  # APS (American Physical Society)
-  # 涵盖 journals.aps.org 等
-  - DOMAIN-SUFFIX,aps.org,DIRECT
-  # Cambridge University Press (CUP)
-  # 涵盖 cambridge.org/core 等
-  - DOMAIN-SUFFIX,cambridge.org,DIRECT
-  # Clarivate (Web of Science, EndNote等)
-  - DOMAIN-KEYWORD,clarivate,DIRECT # 公司主域
-  - DOMAIN-KEYWORD,webofscience,DIRECT # Web of Science 平台
-  - DOMAIN-KEYWORD,webofknowledge,DIRECT # 旧域名/可能相关
-  - DOMAIN-SUFFIX,webofscience.com,DIRECT
-  - DOMAIN-SUFFIX,clarivate.com,DIRECT
-  - DOMAIN-KEYWORD,endnote,DIRECT # EndNote (文献管理)
-  - DOMAIN-SUFFIX,endnote.com,DIRECT
