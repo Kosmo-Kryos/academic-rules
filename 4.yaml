@@ -1,0 +1,14 @@
+rules:
+  - DOMAIN-SUFFIX,mdpi.com,DIRECT
+  # ACS (American Chemical Society)
+  # 涵盖 pubs.acs.org 等
+  - DOMAIN-SUFFIX,acs.org,DIRECT
+  # AIP (American Institute of Physics)
+  # 涵盖 pubs.aip.org, publishing.aip.org 等
+  - DOMAIN-SUFFIX,aip.org,DIRECT
+  # APS (American Physical Society)
+  # 涵盖 journals.aps.org 等
+  - DOMAIN-SUFFIX,aps.org,DIRECT
+  # Cambridge University Press (CUP)
+  # 涵盖 cambridge.org/core 等
+  - DOMAIN-SUFFIX,cambridge.org,DIRECT
